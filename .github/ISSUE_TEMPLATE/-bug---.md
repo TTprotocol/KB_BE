@@ -1,6 +1,6 @@
 ---
 name: "[BUG]: "
-about: 버그 신고를 통해 서비스를 개선 할 수 있게 도와주세요
+about: Describe this issue template's purpose here.
 title: "[BUG]: "
 labels: ''
 assignees: ''

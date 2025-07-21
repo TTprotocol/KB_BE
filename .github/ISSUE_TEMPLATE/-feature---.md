@@ -1,6 +1,6 @@
 ---
 name: "[FEATURE]: "
-about: 프로젝트에 대한 아이디어를 제안해 주세요
+about: Describe this issue template's purpose here.
 title: "[FEATURE]: "
 labels: ''
 assignees: ''

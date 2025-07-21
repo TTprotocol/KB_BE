@@ -5,6 +5,6 @@
         <setting name="mapUnderscoreToCamelCase" value="true" />
     </settings>
     <typeAliases>
-        <package name="org.scoula.security.account.domain" />
+        <package name="org.scoula.security.dto" />
     </typeAliases>
 </configuration>
